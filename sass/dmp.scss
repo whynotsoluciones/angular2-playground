@@ -1,0 +1,14 @@
+@import "../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+
+$brand-secondary:         #DFDBC7;
+
+@import "_DmpRtPanel";
+
+.main-logo {
+  margin: 10px auto;
+}
+
+.test-view {
+  background-color: red;
+  color: white;
+}

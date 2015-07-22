@@ -1,0 +1,28 @@
+.dmp-rt-panel {
+  background-color: $brand-secondary;
+  margin: 5px 0px;
+
+  padding: 10px;
+  width: 100%;
+
+  .title {
+    width: 100%;
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .number-row {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .legend-row {
+    font-size: 1em;
+    font-weight: normal;
+    text-align: center;
+  }
+
+}
